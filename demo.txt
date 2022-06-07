@@ -1,2 +1,5 @@
-Привет Мир
+Oh Wow
 From GitHub
+
+Hello World!
+From GUI
